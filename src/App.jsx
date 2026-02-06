@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import Magazine from './components/Magazine';
 import Founder from './components/Founder';
 import ContactForm from './ContactForm';
+import Form from './components/Form'
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
         <Magazine />
         <ContactForm />
       </main>
+      <Form/>
       <Footer />
     </div>
   );

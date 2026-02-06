@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="col-span-1 md:col-span-1">
           <div className="text-2xl font-bold mb-4 flex items-center gap-2">
             <span className="text-white">RA</span>
-            <span className="text-primary">CONSTRUCTOR</span>
+            <span className="text-primary">CONTRACTOR</span>
           </div>
           <p className="text-gray-400 mb-6 leading-relaxed">
             Leading the way in premium home construction and interior design. We build dreams that last a lifetime.
@@ -67,7 +67,7 @@ export default function Footer() {
       </div>
 
       <div className="container border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
-        <p>&copy; {new Date().getFullYear()} RA Constructor. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} RA Constractor. All rights reserved.</p>
       </div>
 
       <style>{`
